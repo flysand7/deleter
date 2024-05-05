@@ -1,0 +1,9 @@
+*.obj
+*.lib
+*.exe
+*.dll
+*.o
+*.a
+*.so
+
+ols.json
